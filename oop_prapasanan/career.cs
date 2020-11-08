@@ -6,55 +6,55 @@ using System.Threading.Tasks;
 
 namespace oop_prapasanan
 {
-    class career
+    class career                    //คลาสอาชีพ
     {
         public string uniform;
         public string salary;
-        private string WorkClothes;
+        private string operation;  //การทำงาน
     }
-    class teacher : career
+    class teacher : career         //ครู : อาชีพ
     {
-        private void WorkClothes()
+        private void operation()
         {
 
         }
-        public void uniform()
+        public void uniform()     //เครื่องแบบ
         {
             Console.WriteLine("Official uniform");
 
         }
-        public void salary()
+        public void salary()     //เงินเดือน
         {
             Console.WriteLine("15000");
         }
 
     }
-    class nurse : career
+    class nurse : career         //พยาบาล : อาชีพ
     {
-        private void WorkClothes()
+        private void operation()
         {
 
         }
-        public void uniform()
+        public void uniform()   //เครื่องแบบ
         {
             Console.WriteLine("Nurse uniform");
         }
-        public void salary()
+        public void salary()   //เงินเดือน
         {
             Console.WriteLine("22,200");
         }
     }
-    class Pharmacist : career
+    class Pharmacist : career  //เภสัชกร : อาชีพ
     {
-        private void WorkClothes()
+        private void operation()
         {
 
         }
-        public void uniform()
+        public void uniform()  //เครื่องแบบ
         {
             Console.WriteLine("Pharmacist uniform");
         }
-        public void Salary()
+        public void Salary() //เงินเดือน
         {
             Console.WriteLine("25,000");
         }
