@@ -9,8 +9,8 @@ namespace oop_prapasanan
     class career
     {
         public string uniform;
-        public string WorkClothes;
         public string salary;
+        private string WorkClothes;
     }
     class teacher : career
     {
