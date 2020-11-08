@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\oop_prapasanan\oop_prapasanan\bin\Debug\oop_prapasanan.exe.config
+C:\Users\acer\source\repos\oop_prapasanan\oop_prapasanan\bin\Debug\oop_prapasanan.exe
+C:\Users\acer\source\repos\oop_prapasanan\oop_prapasanan\bin\Debug\oop_prapasanan.pdb
+C:\Users\acer\source\repos\oop_prapasanan\oop_prapasanan\obj\Debug\oop_prapasanan.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\oop_prapasanan\oop_prapasanan\obj\Debug\oop_prapasanan.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\oop_prapasanan\oop_prapasanan\obj\Debug\oop_prapasanan.exe
+C:\Users\acer\source\repos\oop_prapasanan\oop_prapasanan\obj\Debug\oop_prapasanan.pdb
