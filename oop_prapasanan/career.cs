@@ -9,7 +9,7 @@ namespace oop_prapasanan
     class career                    //คลาสอาชีพ
     {
         public string uniform;
-        public string salary;
+        public int salary;
         private string operation;  //การทำงาน
     }
     class teacher : career         //คลาสครู : อาชีพ เก็บ เคื่องแบบ และ เงินเดือน
