@@ -18,7 +18,7 @@ namespace oop_prapasanan
             mynurse.salary();
             Pharmacist myPharmacist = new Pharmacist();
             myPharmacist.uniform();
-            myPharmacist.Salary();
+            myPharmacist.Salary(); //ถ้ากด start ไม่ขึ้น กด Ctrl+F5
 
         }
     }

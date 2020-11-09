@@ -12,7 +12,7 @@ namespace oop_prapasanan
         public string salary;
         private string operation;  //การทำงาน
     }
-    class teacher : career         //ครู : อาชีพ
+    class teacher : career         //คลาสครู : อาชีพ เก็บ เคื่องแบบ และ เงินเดือน
     {
         private void operation()
         {
@@ -29,7 +29,7 @@ namespace oop_prapasanan
         }
 
     }
-    class nurse : career         //พยาบาล : อาชีพ
+    class nurse : career         //คลาสพยาบาล : อาชีพ เก็บ เคื่องแบบ และ เงินเดือน
     {
         private void operation()
         {
@@ -44,7 +44,7 @@ namespace oop_prapasanan
             Console.WriteLine("22,200");
         }
     }
-    class Pharmacist : career  //เภสัชกร : อาชีพ
+    class Pharmacist : career  //คลาสเภสัชกร : อาชีพ เก็บ เคื่องแบบ และ เงินเดือน
     {
         private void operation()
         {
